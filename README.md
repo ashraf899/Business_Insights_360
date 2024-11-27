@@ -2,8 +2,11 @@
 ### **Project Overview**
 
 AtliQ Hardware has experienced rapid growth in recent years and aims to solidify its position as a market leader. To achieve this, the company is implementing a data analytics solution using Power BI for the first time. This initiative is expected to empower stakeholders to make informed, data-driven decisions, giving AtliQ Hardware a competitive edge in the market.
+
 The project focuses on addressing key questions from stakeholders across various domains, including Finance, Sales, Marketing, and Supply Chain Management.
+
 I worked on this project by following the Codebasics Power BI Course. The link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project).
+
 You can view the live report here:  
 [Live Report Link](https://app.powerbi.com/reportEmbed?reportId=02be4e10-01ea-40b3-8bc6-f42afdbe2e91&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
 
@@ -254,7 +257,10 @@ Fact tables store transactional data, which includes sales, forecasts, costs, et
 - Data modeling plays a vital role and is considered the foundation of the report. All visuals will be built upon the data model.
 - Poor data modeling affects the overall performance of the report.
 - Following good practices of data modeling is a must. Refer to this click [here](https://addendanalytics.com/blog/data-modelling-best-practices) to learn more about good practices.
-- In this project, we have followed the Snowflake data modeling method.
+- In this project, we have followed Star and Snowflake data modeling method.
+
+https://github.com/ashraf899/Business_Insights_360/blob/main/Resource/BI%20360%20Model%20View.png?raw=true
+
 
 ### **Dashboard Designing**
 
@@ -275,4 +281,22 @@ Based on the mock-ups received as requirements, the team will start designing th
   - **Products**
   - **Support**
 
+### Views
 
+- **Home View**:
+  ![Home View](https://github.com/ashraf899/Business_Insights_360/blob/main/Resource/BI%20360%20Home.png?raw=true)
+
+- **Finance View**:
+  ![Finance View](https://github.com/ashraf899/Business_Insights_360/blob/main/Resource/BI%20360%20Finance%20View.png?raw=true)
+
+- **Sales View**:
+  ![Sales View](https://github.com/ashraf899/Business_Insights_360/blob/main/Resource/BI%20360%20Sales%20View.png?raw=true)
+
+- **Marketing View**:
+  ![Marketing View](https://github.com/ashraf899/Business_Insights_360/blob/main/Resource/BI%20360%20Marketing%20View.png?raw=true)
+
+- **Supply Chain View**:
+  ![Supply Chain View](https://github.com/ashraf899/Business_Insights_360/blob/main/Resource/BI%20360%20Supply%20Chain%20View.png?raw=true)
+
+- **Executive View**:
+  ![Executive View](https://github.com/ashraf899/Business_Insights_360/blob/main/Resource/BI%20360%20Executive%20View.png?raw=true)
