@@ -259,7 +259,7 @@ Fact tables store transactional data, which includes sales, forecasts, costs, et
 - Following good practices of data modeling is a must. Refer to this click [here](https://addendanalytics.com/blog/data-modelling-best-practices) to learn more about good practices.
 - In this project, we have followed Star and Snowflake data modeling method.
 
-https://github.com/ashraf899/Business_Insights_360/blob/main/Resource/BI%20360%20Model%20View.png?raw=true
+![Model](https://github.com/ashraf899/Business_Insights_360/blob/main/Resource/BI%20360%20Model%20View.png?raw=true)
 
 
 ### **Dashboard Designing**
