@@ -8,7 +8,7 @@ The project focuses on addressing key questions from stakeholders across various
 I worked on this project by following the Codebasics Power BI Course. The link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project).
 
 You can view the live report here:  
-[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNGI4NGY1MjgtYmU2YS00OTFmLThkZmMtNGU0YWVjNTEwOTgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNGI4NGY1MjgtYmU2YS00OTFmLThkZmMtNGU0YWVjNTEwOTgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### Tech Stack
 
